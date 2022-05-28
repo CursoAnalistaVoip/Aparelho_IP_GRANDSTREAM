@@ -68,6 +68,25 @@ Name: Nome do Usuário
 ![image](https://user-images.githubusercontent.com/102430464/170804831-998fdcfa-a11e-4e3a-94d6-20b1a16762ab.png)
 
 
+Um item importante a ser configurado são os codecs:
+
+Clique em Account => Audio Settings 
+
+
+![image](https://user-images.githubusercontent.com/102430464/170804982-f583c358-294d-42cf-a1ee-e691632d826e.png)
+
+
+Escolha os codecs conforme orientação do mantenedor.
+
+
+# Outro item importante é ativar o Keep-alive dos aparelhos GRANDSTREAM
+
+
+Basta clicar em Account => Network Settings
+
+
+
+![image](https://user-images.githubusercontent.com/102430464/170805046-034b50f1-9af6-4498-ad06-d4d7bbbfb75d.png)
 
 
 
