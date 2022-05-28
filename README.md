@@ -1,4 +1,4 @@
-# Aparelho IP GRANDSTREAM
+# Aparelho IP GRANDSTREAM GXP1615
 # Como configurar um aparelho IP GRANDSTREAM
 
 O aparelho de Fabrico vem com sua rede em DHCP, ou seja ele ira pegar um IP da sua rede.
@@ -68,7 +68,7 @@ Name: Nome do Usuário
 ![image](https://user-images.githubusercontent.com/102430464/170804831-998fdcfa-a11e-4e3a-94d6-20b1a16762ab.png)
 
 
-Um item importante a ser configurado são os codecs:
+# Um item importante a ser configurado são os codecs:
 
 Clique em Account => Audio Settings 
 
@@ -90,7 +90,7 @@ Basta clicar em Account => Network Settings
 
 
 
-
+Isso é uma configuração Basica para o correto registro e funcionamento do aparelho IP GRANDSTREAM
 
 
 
