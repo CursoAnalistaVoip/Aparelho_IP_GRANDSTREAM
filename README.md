@@ -1,7 +1,7 @@
 # Aparelho IP GRANDSTREAM GXP1615
 # Como configurar um aparelho IP GRANDSTREAM
 
-O aparelho de Fabrico vem com sua rede em DHCP, ou seja ele ira pegar um IP da sua rede.
+O aparelho de Fabrica vem com sua rede em DHCP, ou seja ele ira pegar um IP da sua rede.
 
 Para saber o IP que o aparelho pegou basta precionar o botão Menu: 
 
