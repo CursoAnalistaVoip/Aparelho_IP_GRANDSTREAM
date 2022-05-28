@@ -43,8 +43,23 @@ Campos que vamos preencher:
 
 
 Account Active : Deixar em Yes
+
+
 Account Name : Nome do Usuario
+
+
 SIP Server : IP ou DNS do *PABX IP*
+
+
+SIP User ID: Número do ramal
+
+
+Authenticate ID: Número do ramal 
+
+
+Authenticate Password: Senha do Ramal
+
+
 
 
 
