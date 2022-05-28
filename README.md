@@ -1,5 +1,5 @@
 # Aparelho IP GRANDSTREAM
-Como configurar um aparelho IP GRANDSTREAM
+# Como configurar um aparelho IP GRANDSTREAM
 
 O aparelho de Fabrico vem com sua rede em DHCP, ou seja ele ira pegar um IP da sua rede.
 
@@ -8,7 +8,7 @@ Para saber o IP que o aparelho pegou basta precionar o botão Menu:
 ![image](https://user-images.githubusercontent.com/102430464/170803976-13ab892c-fb19-488d-b4b1-9c1e2f74c156.png)
 
 
-Depois em => Status => Network Status 
+# Depois em => Status => Network Status 
 
 IPv4 : < ... IP da Rede ... >
   
@@ -25,7 +25,7 @@ Senha : admin
 Por segurança o ideal é sempre troca a senha padrão do aparelho.
   
   
-Primeira tela ao acessar:
+# Primeira tela ao acessar:
   
  
   
@@ -34,30 +34,29 @@ Primeira tela ao acessar:
 
 
   
- Depois Clique em *Accounts*
+ # Depois Clique em *Accounts*
  
  ![image](https://user-images.githubusercontent.com/102430464/170804418-1a83824a-23f5-4b31-9721-6ff66fb69fa7.png)
 
 
-Campos que vamos preencher:
+# Campos que vamos preencher:
 
 
 Account Active : Deixar em Yes
 
-
 Account Name : Nome do Usuario
-
 
 SIP Server : IP ou DNS do *PABX IP*
 
-
 SIP User ID: Número do ramal
-
 
 Authenticate ID: Número do ramal 
 
-
 Authenticate Password: Senha do Ramal
+
+Name: Nome do Usuário 
+
+
 
 
 
