@@ -56,6 +56,9 @@ Authenticate Password: Senha do Ramal
 
 Name: Nome do Usuário 
 
+
+Depois clique no botão *Save and Apply* 
+
 # Caso aparelho se registre corretamente ele ficará com icone do telefone superior esquerdo verde.
 
 
@@ -78,6 +81,8 @@ Clique em Account => Audio Settings
 
 Escolha os codecs conforme orientação do mantenedor.
 
+Depois clique no botão *Save and Apply* 
+
 
 # Outro item importante é ativar o Keep-alive dos aparelhos GRANDSTREAM
 
@@ -87,6 +92,18 @@ Basta clicar em Account => Network Settings
 
 
 ![image](https://user-images.githubusercontent.com/102430464/170805046-034b50f1-9af6-4498-ad06-d4d7bbbfb75d.png)
+
+Depois clique no botão *Save and Apply* 
+
+
+# Para acertar a hora do aparelho:
+
+Basta clicar em Settings => Data and Time
+
+![image](https://user-images.githubusercontent.com/102430464/170805255-e8df1296-a705-4846-a5d7-a3048b13d9aa.png)
+
+
+Depois clique no botão Save and Apply 
 
 
 
