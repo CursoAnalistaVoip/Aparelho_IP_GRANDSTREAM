@@ -10,7 +10,7 @@ Para saber o IP que o aparelho pegou basta precionar o botão Menu:
 
 Depois em => Status => Network Status 
 
-IPv4 : <IP da Rede>
+IPv4 : < ... IP da Rede ... >
   
 Ai basta colocar o IP no navagador:
   
@@ -34,4 +34,29 @@ Primeira tela ao acessar:
 
 
   
-  
+ Depois Clique em *Accounts*
+ 
+ ![image](https://user-images.githubusercontent.com/102430464/170804418-1a83824a-23f5-4b31-9721-6ff66fb69fa7.png)
+
+
+Campos que vamos preencher:
+
+
+Account Active : Deixar em Yes
+Account Name : Nome do Usuario
+SIP Server : IP ou DNS do *PABX IP*
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
