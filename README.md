@@ -44,7 +44,7 @@ Por segurança o ideal é sempre troca a senha padrão do aparelho.
 
 Account Active : Deixar em Yes
 
-Account Name : Nome do Usuario
+Account Name : Nome do Usuario (Irá aparecer no display)
 
 SIP Server : IP ou DNS do *PABX IP*
 
@@ -56,6 +56,16 @@ Authenticate Password: Senha do Ramal
 
 Name: Nome do Usuário 
 
+# Caso aparelho se registre corretamente ele ficará com icone do telefone superior esquerdo verde.
+
+
+![image](https://user-images.githubusercontent.com/102430464/170804762-cea9776a-d59a-422f-8b60-fcd221e50fe9.png)
+
+
+# Clique em status => Account Status
+
+
+![image](https://user-images.githubusercontent.com/102430464/170804831-998fdcfa-a11e-4e3a-94d6-20b1a16762ab.png)
 
 
 
