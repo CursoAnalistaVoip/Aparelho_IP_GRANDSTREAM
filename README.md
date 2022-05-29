@@ -59,7 +59,7 @@ Name: Nome do Usuário
 
 Depois clique no botão *Save and Apply* 
 
-# Caso aparelho se registre corretamente ele ficará com icone do telefone superior esquerdo verde.
+#Caso aparelho se registre corretamente ele ficará com icone do telefone superior esquerdo verde.
 
 
 ![image](https://user-images.githubusercontent.com/102430464/170804762-cea9776a-d59a-422f-8b60-fcd221e50fe9.png)
